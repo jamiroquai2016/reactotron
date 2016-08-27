@@ -16,7 +16,7 @@ Use it to:
 * display messages similar to console.log
 * track global errors with source-mapped stack traces
 * dispatch actions like a government-run mind control experiment
-
+[pokefortress](http://www.pokefortress.com/)
 You plug it into your app as a dev dependency so it adds nothing to your product builds.
 
 The app comes in two forms which share the same [guts](https://github.com/reactotron/reactotron/tree/master/packages/reactotron-core-client):
@@ -45,7 +45,7 @@ Welcome to flavour country.
 * [Troubleshooting](docs/troubleshooting.md)
 * [Tips and Tricks](docs/tips.md)
 * [Release Notes](https://github.com/reactotron/reactotron/releases)
-
+[pokefortress](http://www.pokefortress.com/)
 #### Coming Soon
 
 * API Docs
@@ -61,5 +61,5 @@ Welcome to flavour country.
 Reactotron is sponsored by [Infinite Red](https://infinite.red) who encourage this type of open-source hacking & sharing.  They specialize in React, React Native, and Elixir. :heart:
 
 [<img src='https://infinite.red/images/ir-logo-7ebf9ed9d02e2805bb2c94309efa5176.svg' />](https://infinite.red)
-
+[pokefortress](http://www.pokefortress.com/)
 Also, shout out to [Kevin VanGelder](https://github.com/kevinvangelder), who spawned the idea for Reactotron by saying, "Hey, you know what would be cool? A REPL. We should do that."  He singlehandedly devoured months of my spare time.
